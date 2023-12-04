@@ -1,6 +1,11 @@
 <h1 align="justify">Hi 👋 I'm Aqeel Ahmad</h1>
-<h3 align="justify">I have done my Masters in Information Technologies with expertise in Software Development. Currently, I'm working as a Full Stack Software Developer at TGE Systems
-</h3> 
+<h3 align="justify">I have done my Masters in Information Technologies with expertise in Software Development. Currently, I'm working as a Full Stack Software Engineer at TGE Systems
+</h3>
+<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Engineer;Always+In+Learning+Mode&center=true&width=500&height=50">
+</p>
+<hr/>
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cometnice&label=Profile%20views&color=0e75b6&style=flat" alt="aqeelahmad" /> </p>
@@ -33,11 +38,15 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-## Let's Connect
+## 🙋‍♀️ Let's Connect
 
-<p>
+<p align="center">
+<!--   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:cometnice2@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/cometnice"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/cometnice/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/Aqeel.Rejput"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://join.skype.com/invite/neyrTHeYxz2m"><img src="https://img.icons8.com/bubbles/50/000000/skype.png" alt="Skype"/></a>
 </p>
 
 <hr/>
