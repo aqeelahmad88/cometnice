@@ -21,7 +21,11 @@
 	<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="typescript" width="40" height="40"/></a>
 	<a href="https://www.paypal.com/" target="_blank" rel="noreferrer"><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="typescript" width="40" height="40"/></a>
 	<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="typescript" width="40" height="40"/></a>
-	<a href="https://www.2checkout.com/" target="_blank" rel="noreferrer"><img src="https://www.2checkout.com/resources/en/site_pages/Verifone_2Checkout_logotype_black_rgb.svg" alt="typescript" width="40" height="40"/></a>
+	<a href="https://www.mlsgrid.com/" target="_blank" rel="noreferrer"><img src="https://images.squarespace-cdn.com/content/v1/5908cde79f745622b6a59828/1603402471382-7OFKUW1BDJGG8POPI2D1/MLSGrid_White_Text.png?format=1500w" alt="typescript" width="40" height="40"/></a>
+	<a href="https://www.realgeeks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cookielaw.org/logos/aa4c6ea2-82de-4ea3-b17d-9d1616eb2a19/0a8da07e-2c48-4b29-b61f-42187c177c70/8f21384d-4e75-4ad0-b8dc-1d3baaf976d7/Real_Geeks_logo.png" alt="typescript" width="160" height="40"/></a>
+<br>	
+	<a href="https://mailchimp.com/" target="_blank" rel="noreferrer"><img src="https://yt3.googleusercontent.com/Q7_UCD6oHd-4_Ib45h-Vi1YQBw49-bwLU80W1Va2OJJ0IK15vEYEBTi2U4TdqkYmxfDlqXIz=s176-c-k-c0x00ffffff-no-rj" alt="typescript" width="40" height="40"/></a>
+	<a href="https://mandrillapp.com/" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/5f8b0a1abe69652278dad51c/62672351b121c71d548ea4f4_Mandrill.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
 
